@@ -1,0 +1,22 @@
+# The following is the order of the links in the header of the website.
+# Changing the order here adjusts the order in the header. Removing a link
+# prevents it from showing in the header (but does not delete the page).
+
+main:
+  - title: "People"
+    url: /people/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "News"
+    url: /year-archive/
+
+  - title: "Join Us"
+    url: /join/
+
+  - title: "Contact"
+    url: /contact/
